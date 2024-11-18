@@ -9,12 +9,6 @@ This is a simple Flutter app that simulates a dice roll using two dice images. W
 - Real-time updates of the dice images as they change based on the random number generated.
 - Clean and minimalistic user interface with a background color and app bar.
 
-## Screenshots
-
-![App Screenshot](screenshots/dice_app_screenshot.png)
-
-*(Replace with actual screenshots of your app)*
-
 ## Getting Started
 
 To get started with this app, follow the instructions below.
