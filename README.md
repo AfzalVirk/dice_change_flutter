@@ -23,4 +23,5 @@ To get started with this app, follow the instructions below.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/dice-change-flutter.git
+   git clone https://github.com/AfzalVirk/dice_change_flutter.git
+   
